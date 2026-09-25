@@ -1,0 +1,2 @@
+echo "Hello" > hello.txt
+echo "World" > world.txt
